@@ -16,3 +16,5 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.9.6"
 
+[tool.poetry]
+package-mode = false
